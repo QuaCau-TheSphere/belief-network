@@ -1,0 +1,2 @@
+- Chonen [[Thứ bỏ đi thì không đáng tốn thời gian để tìm hiểu nó kỹ hơn]]
+- Mauthuanvoi [[Hãy phản tư]]

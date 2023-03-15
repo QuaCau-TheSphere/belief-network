@@ -1,0 +1,2 @@
+- Boivi [[Kiếp sau có tồn tại]]
+- Chonen [[Sinh ra là như thế]]

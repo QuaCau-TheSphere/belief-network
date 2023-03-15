@@ -1,0 +1,2 @@
+- Boivi [[Con người có tính xã hội cao]] [[Mọi người chỉ chạy theo đám đông]]
+- Mauthuanvoi [[Sản phẩm nghệ thuật dù bạo lực, gợi dục thì cũng không gây hại]]

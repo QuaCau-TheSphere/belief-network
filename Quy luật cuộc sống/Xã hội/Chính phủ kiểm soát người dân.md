@@ -1,0 +1,2 @@
+- Boivi [[Tư bản kiểm soát người yếu thế]], [[Người đang có quyền lực thì sẽ không bao giờ từ bỏ]] [[Sẽ luôn có người làm hại mình]]
+- Boivi [[Luật là để bảo vệ công bằng, công lý]]

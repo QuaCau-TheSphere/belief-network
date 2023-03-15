@@ -1,0 +1,1 @@
+- Chonen [[Thay vì nói lý thuyết thì tốt nhất là nên bắt tay vào thực hành]]

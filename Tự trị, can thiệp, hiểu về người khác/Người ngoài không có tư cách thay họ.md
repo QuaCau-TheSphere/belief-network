@@ -1,0 +1,3 @@
+- Boivi [[Nothing about us without us]]
+- Chonen [[Không phải việc của mình thì đừng có xía vào]], [[Không có gì là sai nếu lo cho bản thân trước]], [[Mỗi người phải chịu trách nhiệm cho lựa chọn của mình]]
+- Mauthuanvoi [[Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình]]

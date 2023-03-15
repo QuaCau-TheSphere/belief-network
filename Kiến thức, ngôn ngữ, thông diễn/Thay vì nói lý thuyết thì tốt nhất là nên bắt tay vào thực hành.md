@@ -1,0 +1,1 @@
+- Boivi [[Sử dụng lý luận thì là đang hý luận]] [[Đừng nói những điều xa vời, không thực tế]] 

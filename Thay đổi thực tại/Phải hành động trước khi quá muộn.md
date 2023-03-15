@@ -1,0 +1,3 @@
+- Boivi [[Để đến lúc nhận ra hậu quả thì đã trễ rồi]]
+- Chonen [[Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ]]
+- Mauthuanvoi [[Hãy sống trong hiện tại]]

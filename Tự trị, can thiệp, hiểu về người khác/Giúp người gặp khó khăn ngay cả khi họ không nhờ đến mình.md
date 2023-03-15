@@ -1,0 +1,4 @@
+- Boivi [[Để đến lúc nhận ra hậu quả thì đã trễ rồi]] 
+- Boivi [[Những người ở bên cạnh mình lúc khó khăn mới là những người bạn thực sự của mình]]
+- Boivi [[Não chúng ta luôn tự đánh lừa chính mình]]
+- Mauthuanvoi [[Người ngoài không có tư cách thay họ]] [[Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy]] [[Không phải việc của mình thì đừng có xía vào]]

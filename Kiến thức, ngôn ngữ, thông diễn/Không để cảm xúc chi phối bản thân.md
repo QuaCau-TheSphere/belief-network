@@ -1,0 +1,2 @@
+- Boivi [[Hãy dám biết]], [[Hãy phản tư]] [[Cảm xúc sẽ bóp méo thực tại]] [[Hãy không ngừng chất vấn những quan niệm của mình]]
+- Mauthuanvoi [[Chỉ có cảm xúc là đúng nhất]] [[Cảm xúc thì không thể ép theo logic được]]

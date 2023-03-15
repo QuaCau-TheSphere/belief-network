@@ -1,0 +1,2 @@
+- Chonen [[Cuộc đời ở kiếp này là vậy]]
+- Chonen [[Mọi chuyện rồi nhất định sẽ ổn thôi]]

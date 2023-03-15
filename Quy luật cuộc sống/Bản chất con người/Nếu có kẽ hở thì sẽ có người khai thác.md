@@ -1,0 +1,2 @@
+- Chonen [[Sẽ luôn có người làm hại mình]] [[Phải tránh mọi rủi ro]]
+- Tuongduongvoi [[Người đang có quyền lực thì sẽ không bao giờ từ bỏ]] [[Give them an inch and they will take a mile]]

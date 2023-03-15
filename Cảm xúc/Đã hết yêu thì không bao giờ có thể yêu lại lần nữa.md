@@ -1,0 +1,1 @@
+- Boivi [[Chỉ có cảm xúc là đúng nhất]] [[Một lần là trăm năm]] [[Cảm xúc thì không thể ép theo logic được]]

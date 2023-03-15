@@ -1,0 +1,2 @@
+- Boivi [[Chỉ có cảm xúc là đúng nhất]]
+- Chonen [[Đã hết yêu thì không bao giờ có thể yêu lại lần nữa]]

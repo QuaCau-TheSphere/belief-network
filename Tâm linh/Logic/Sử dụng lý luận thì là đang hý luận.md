@@ -1,0 +1,3 @@
+- Boivi [[Dùng logic là nhị nguyên]]
+- Chonen [[Thay vì nói lý thuyết thì tốt nhất là nên bắt tay vào thực hành]]
+- Mauthuanvoi [[Hãy dám biết]]

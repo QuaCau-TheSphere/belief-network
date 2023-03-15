@@ -1,0 +1,3 @@
+- Boivi [[Mọi chuyện rồi nhất định sẽ ổn thôi]], [[Hãy nuôi dưỡng sự hy vọng]] [[Hãy chấp nhận rủi ro]]
+- Mauthuanvoi [[Sẽ luôn có người làm hại mình]], [[Tư bản kiểm soát người yếu thế]]
+- Tuongduongvoi [[Không lo lắng về sự phản bội có thể sẽ xảy ra]]

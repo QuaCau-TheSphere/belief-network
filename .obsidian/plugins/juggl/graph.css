@@ -1,0 +1,118 @@
+/* For a full overview of styling options, see https://js.cytoscape.org/#style */
+:root{
+
+    /*----------------------------------------------------------------
+    BASE COLORS
+    ----------------------------------------------------------------*/
+
+    --dark0:  #2e3440;
+    --dark1: #3b4252;
+    --dark2:  #434c5e;
+    --dark3:  #4c566a;
+    --dark4: #0f0e14; 
+    --dark5:  #0b0b0b;  
+
+    --light0: #d8dee9;
+    --light1: #e5e9f0;
+    --light2: #cacfd9;
+    --light3: #ffffff;
+    --light4: #f9fafb; 
+    --light5: #eff1f5;
+
+    --frost0: #e69ca2; 
+    --frost1: #88c0d0;
+    --frost2: #81a1c1; 
+    --frost3: #f1ceD0; 
+
+   /*----------------------------------------------------------------
+    COLORS
+    ----------------------------------------------------------------*/
+
+    --red: #ff5582; 
+    --pink: #f2b3cf; 
+    --fairpink: #eed3e1; 
+    --yellow:  #fff3a3;
+    --linen: #fcecec;
+    --paleblue: #b5d3ff; 
+    --purple: #d2b3ff; 
+    --palegreen:  #bbfabb;
+    --cornflower-blue: #a1c4fd;
+    --light-cornflower-blue: #adccff;
+    --duskblue: #a2acc3; 
+    --darkbrown: #34343d;
+    --pureblack:  #000000;
+    --royalblue: #7288da;
+
+    /*----------------------------------------------------------------
+    BOLD COLORS
+    ----------------------------------------------------------------*/
+
+    --boldpink: #fe53bb; 
+    --boldpurple: #7322e6; 
+    --boldred: #ff5555;
+    --boldyellow: #ffff00;
+    --boldorange: #ffb86c;
+    --boldgreen: #85ffa4; 
+    --boldblue: #99e7ff; 
+    --boldlightpink: #ffbaeb;
+
+    /*----------------------------------------------------------------
+    PASTEL COLORS
+    ----------------------------------------------------------------*/
+    --pastelyellow:  #fcf4c9;
+    --pastelcoral: #ffe896;
+    --pastelpink: #fbcdf2;
+    --pastelpurple: #e8befa;
+    --pastelperiwinkle:  #abbfff;
+    --pastelgreen: #bbf3c0;
+}
+
+node[path ^='Cảm xúc/'] {
+	background-color: #fe53bb;
+}
+
+node[path ^='Cái đẹp/'] {
+  background-color: #f2b3cf;
+}
+
+node[path ^='Hiểu về người khác/'] {
+  background-color: #7322e6;
+}
+
+node[path ^='Lạc quan, hy vọng, tin tưởng/'] {
+  background-color: blue;
+}
+
+node[path ^='Quy luật cuộc sống/'] {
+  background-color: yellow;
+}
+
+node[path ^='Tâm linh/'] {
+  background-color: lightgreen;
+}
+
+
+edge {
+	curve-style: straight;
+}
+
+
+.type-Boivi {
+	mid-source-arrow-shape: triangle-backcurve;
+	label: ;
+}
+
+.type-Chonen {
+	mid-target-arrow-shape: triangle-backcurve;
+	label: ;
+}
+
+.type-Mauthuanvoi {
+	line-color: red;
+	label: ;
+}
+.type-Tuongduong {
+	mid-target-arrow-shape: tee;
+	label: ;
+}
+

@@ -1,0 +1,2 @@
+- Chonen [[Hãy phản tư]] [[Hãy không ngừng chất vấn những quan niệm của mình]] [[Không để cảm xúc chi phối bản thân]]
+- Mauthuanvoi [[Chỉ có cảm xúc là đúng nhất]]

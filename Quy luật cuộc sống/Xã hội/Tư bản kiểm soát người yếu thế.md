@@ -1,0 +1,3 @@
+- Boivi [[Người đang có quyền lực thì sẽ không bao giờ từ bỏ]]
+- Chonen [[Sẽ luôn có người làm hại mình]], [[Chính phủ kiểm soát người dân]]
+- Mauthuanvoi [[Hãy đặt niềm tin vào người khác]]

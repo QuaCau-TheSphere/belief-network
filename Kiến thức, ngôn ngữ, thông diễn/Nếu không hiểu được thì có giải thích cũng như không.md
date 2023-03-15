@@ -1,0 +1,3 @@
+- Boivi [[Mỗi người có cách diễn giải khác nhau]]
+- Tuongduongvoi [[Nếu hiểu được thì sẽ tự hiểu, không cần phải giải thích]]
+- Mauthuanvoi [[Nếu bạn không thể giải thích được cho một đứa trẻ hiểu thì là bạn chưa hiểu đủ]]

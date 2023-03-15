@@ -1,0 +1,2 @@
+- Boivi [[Để đến lúc nhận ra hậu quả thì đã trễ rồi]]
+- Chonen [[Dũng cảm nói không với cái sai, nói không với điều phi lý]], [[Phải hành động trước khi quá muộn]] [[Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ]]

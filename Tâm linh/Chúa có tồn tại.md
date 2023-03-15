@@ -1,0 +1,1 @@
+- Chonen [[Mọi thứ đều là sự sắp đặt của số phận]]

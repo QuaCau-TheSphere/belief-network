@@ -1,0 +1,4 @@
+- Boivi [[Dùng logic là nhị nguyên]], [[Tự nhiên sẽ làm công việc của nó]]
+- Chonen [[Cái gì tự nhiên thì sẽ tốt nhất]] [[Khoa học không bao giờ tới được tâm linh]]
+- Mauthuanvoi [[Hãy dám biết]], [[Mọi chuyện rồi nhất định sẽ ổn thôi]] [[Dũng cảm nói không với cái sai, nói không với điều phi lý]]
+- Boivi [[Sự can thiệp là luôn không tôn trọng quyền tự quyết]]

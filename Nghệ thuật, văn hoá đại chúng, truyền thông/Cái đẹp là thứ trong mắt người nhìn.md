@@ -1,0 +1,2 @@
+- Boivi [[Mỗi người có cách diễn giải khác nhau]] 
+- Tuongduongvoi [[Chỉ có cảm xúc là đúng nhất]]

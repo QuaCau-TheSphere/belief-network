@@ -1,0 +1,4 @@
+- Boivi [[Phải làm vì những người khác, vì thế hệ sau]], 
+- Tuongduongvoi [[Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến]]
+- Chonen [[Dũng cảm nói không với cái sai, nói không với điều phi lý]]
+- Mauthuanvoi [[Hãy sống trong hiện tại]], [[Mọi chuyện rồi nhất định sẽ ổn thôi]], [[Hãy nuôi dưỡng sự hy vọng]]

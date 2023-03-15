@@ -1,0 +1,3 @@
+- Boivi [[Người hiểu rõ ta nhất chỉ có ta mà thôi]]
+- Chonen [[Không thể chiều lòng tất cả mọi người được]]
+- Mauthuanvoi [[Hãy tin tưởng vào khả năng chuyển hóa, ứng biến của người khác]]

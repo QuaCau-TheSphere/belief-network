@@ -1,0 +1,3 @@
+- Chonen [[Tự nhiên sẽ cân bằng mọi thứ]], [[Dùng lý trí là can thiệp thô bạo vào tự nhiên]], [[Chỉ cần làm những gì mình có thể làm]]
+- Chonen [[Hãy hòa mình vào tự nhiên]]
+- Chonen [[Cuộc đời sẽ dạy họ một bài học]], [[Hãy tin tưởng vào khả năng chuyển hóa, ứng biến của người khác]]

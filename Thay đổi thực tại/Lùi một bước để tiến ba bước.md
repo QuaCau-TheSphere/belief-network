@@ -1,0 +1,3 @@
+- Boivi [[Hãy thích ứng linh hoạt với cuộc sống]] 
+- Mauthuanvoi [[Đừng làm mọi chuyện tệ hơn]]
+- Chonen [[Mọi chuyện rồi nhất định sẽ ổn thôi]], [[Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt]], [[Mục đích biện minh cho phương tiện]] 

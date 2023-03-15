@@ -1,0 +1,3 @@
+- Boivi [[Tri thức là sức mạnh]] 
+- Chonen [[Hãy nuôi dưỡng sự tò mò]], [[Hãy phản tư]], [[Không để cảm xúc chi phối bản thân]] 
+- Mauthuanvoi [[Khoa học không bao giờ tới được tâm linh]], [[Sử dụng lý luận thì là đang hý luận]] [[Dùng lý trí là can thiệp thô bạo vào tự nhiên]]

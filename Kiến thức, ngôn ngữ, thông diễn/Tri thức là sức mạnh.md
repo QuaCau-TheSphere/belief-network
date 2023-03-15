@@ -1,0 +1,2 @@
+- Chonen [[Hãy dám biết]], [[Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản]]
+- Chonen [[Nếu bạn không thể giải thích được cho một đứa trẻ hiểu thì là bạn chưa hiểu đủ]], [[Named must your fear be before banish it you can – Yoda]] 

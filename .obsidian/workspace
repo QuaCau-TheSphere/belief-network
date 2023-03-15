@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "15d83e7afc623a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "494854127bcb7f7a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55811ebac5eef06e",
+    "type": "split",
+    "children": [
+      {
+        "id": "342dfcebacff5eb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ad9a889da1ab86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaf4cacad561dbac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe251d6e21ef6cf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc4b2d98216c2ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bc778e7942404f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a7d0f66984370b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a66e9d5de828a61e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "494854127bcb7f7a",
+  "lastOpenFiles": [
+    "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md",
+    "Cảm xúc/Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận.md",
+    "Give them an inch and they will take a mile.md",
+    "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md",
+    "Kiến thức, ngôn ngữ, thông diễn/Thay vì nói lý thuyết thì tốt nhất là nên bắt tay vào thực hành.md",
+    "Quy luật cuộc sống/Nếu không thấy hợp lý thì không đáng lắng nghe.md",
+    "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md",
+    "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md",
+    "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md",
+    "Quy luật cuộc sống/Không có gì là sai nếu lo cho bản thân trước.md"
+  ]
+}

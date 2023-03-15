@@ -1,0 +1,3 @@
+- Boivi [[Cái đẹp thì không kích thích sự ham muốn]]
+- Mauthuanvoi [[Sản phẩm văn hoá đại chúng gây ảnh hưởng tới người xem]]
+- Invi [[Việc theo đuổi cái đẹp kể cả khi nó mâu thuẫn với cái đúng và cái tốt là chuyện đương nhiên]] [[Cái đẹp chỉ là thứ vô dụng]]

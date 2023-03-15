@@ -1,0 +1,7 @@
+{
+  "autoExpand": true,
+  "defaultTemplate": "<li>$filename</li>",
+  "delay": 5000,
+  "excludeCurrent": true,
+  "lineEnding": "<--->"
+}

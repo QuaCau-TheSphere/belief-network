@@ -1,0 +1,2 @@
+- Boivi [[Lùi một bước để tiến ba bước]]
+- Chonen [[Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy]]

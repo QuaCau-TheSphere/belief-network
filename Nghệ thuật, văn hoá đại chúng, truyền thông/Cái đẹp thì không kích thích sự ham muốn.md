@@ -1,0 +1,1 @@
+- Chonen [[Sản phẩm nghệ thuật dù bạo lực, gợi dục thì cũng không gây hại]],[[Cái đẹp chỉ là thứ vô dụng]] 

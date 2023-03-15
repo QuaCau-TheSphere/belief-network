@@ -1,0 +1,5 @@
+- Boivi [[Đúng với sai là một]]
+- Chonen [[Hãy sống trong hiện tại]]
+- Chonen [[Nếu hiểu được thì sẽ tự hiểu, không cần phải giải thích]]
+- Chonen [[Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản]]
+- Boivi [[Mọi thứ đều là sự sắp đặt của số phận]]

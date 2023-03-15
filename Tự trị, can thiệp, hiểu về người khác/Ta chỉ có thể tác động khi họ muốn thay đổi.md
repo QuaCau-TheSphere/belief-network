@@ -1,0 +1,2 @@
+- Boivi [[Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận]]
+- Chonen [[Thật vô ích để thay đổi]], [[Mỗi người phải chịu trách nhiệm cho lựa chọn của mình]]

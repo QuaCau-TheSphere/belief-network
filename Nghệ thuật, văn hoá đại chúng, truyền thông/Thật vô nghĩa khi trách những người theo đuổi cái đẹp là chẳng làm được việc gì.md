@@ -1,0 +1,2 @@
+- Boivi [[Cái đẹp chỉ là thứ vô dụng]]
+- Chonen [[Việc theo đuổi cái đẹp kể cả khi nó mâu thuẫn với cái đúng và cái tốt là chuyện đương nhiên]]

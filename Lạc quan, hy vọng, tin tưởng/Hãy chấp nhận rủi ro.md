@@ -1,0 +1,3 @@
+- Boivi [[Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản]] [[Mọi chuyện rồi nhất định sẽ ổn thôi]]
+- Chonen [[Hãy đặt niềm tin vào người khác]]
+- Mauthuanvoi [[Sẽ luôn có người làm hại mình]], [[Phải tránh mọi rủi ro]]

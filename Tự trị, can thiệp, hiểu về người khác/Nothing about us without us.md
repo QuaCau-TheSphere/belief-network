@@ -1,0 +1,2 @@
+- Boivi [[Người hiểu rõ ta nhất chỉ có ta mà thôi]] [[Sự can thiệp là luôn không tôn trọng quyền tự quyết]]
+- Chonen [[Người ngoài không có tư cách thay họ]]

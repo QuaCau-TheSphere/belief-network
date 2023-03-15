@@ -1,0 +1,2 @@
+- Boivi [[Mọi người chỉ chạy theo đám đông]]
+- Chonen [[Thật vô ích để thay đổi]]

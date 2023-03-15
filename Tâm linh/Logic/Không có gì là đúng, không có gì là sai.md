@@ -1,0 +1,2 @@
+- Chonen [[Đúng với sai là một]], [[Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận]], [[Mọi thứ chỉ là sự phù hợp]] [[Hãy thích ứng linh hoạt với cuộc sống]]
+- Mauthuanvoi [[Chỉ có cảm xúc là đúng nhất]]

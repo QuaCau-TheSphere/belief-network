@@ -1,0 +1,132 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Cảm xúc",
+      "relativePath": "Cảm xúc"
+    },
+    {
+      "name": "Kiến thức, ngôn ngữ, thông diễn",
+      "relativePath": "Kiến thức, ngôn ngữ, thông diễn"
+    },
+    {
+      "name": "Lạc quan, hy vọng, tin tưởng",
+      "relativePath": "Lạc quan, hy vọng, tin tưởng"
+    },
+    {
+      "name": "Nghệ thuật, văn hoá đại chúng, truyền thông",
+      "relativePath": "Nghệ thuật, văn hoá đại chúng, truyền thông"
+    },
+    {
+      "name": "Quy luật cuộc sống",
+      "relativePath": "Quy luật cuộc sống"
+    },
+    {
+      "name": "Thay đổi thực tại",
+      "relativePath": "Thay đổi thực tại"
+    },
+    {
+      "name": "Tâm linh",
+      "relativePath": "Tâm linh"
+    },
+    {
+      "name": "Tự trị, can thiệp, hiểu về người khác",
+      "relativePath": "Tự trị, can thiệp, hiểu về người khác"
+    },
+    {
+      "name": "Bản chất con người",
+      "relativePath": "Quy luật cuộc sống/Bản chất con người"
+    },
+    {
+      "name": "Xã hội",
+      "relativePath": "Quy luật cuộc sống/Xã hội"
+    },
+    {
+      "name": "Luật pháp - nhân quyền",
+      "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền"
+    },
+    {
+      "name": "Logic",
+      "relativePath": "Tâm linh/Logic"
+    },
+    {
+      "name": "Tự nhiên",
+      "relativePath": "Tâm linh/Tự nhiên"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Cảm xúc/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Kiến thức, ngôn ngữ, thông diễn/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Lạc quan, hy vọng, tin tưởng/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Quy luật cuộc sống/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Nghệ thuật, văn hoá đại chúng, truyền thông/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Thay đổi thực tại/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Tâm linh/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Tự trị, can thiệp, hiểu về người khác/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Quy luật cuộc sống/Bản chất con người/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Quy luật cuộc sống/Xã hội/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Tâm linh/Tự nhiên/desktop.ini"
+    },
+    {
+      "name": "desktop.ini",
+      "basename": "desktop",
+      "relativePath": "Tâm linh/Logic/desktop.ini"
+    }
+  ]
+}

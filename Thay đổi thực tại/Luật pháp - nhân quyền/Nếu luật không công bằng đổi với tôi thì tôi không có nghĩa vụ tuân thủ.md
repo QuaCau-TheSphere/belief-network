@@ -1,0 +1,2 @@
+- Boivi [[Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật]]
+- Chonen [[Dũng cảm nói không với cái sai, nói không với điều phi lý]]

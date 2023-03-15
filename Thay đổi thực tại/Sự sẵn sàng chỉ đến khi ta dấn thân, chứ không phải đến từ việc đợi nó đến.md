@@ -1,0 +1,3 @@
+- Mauthuanvoi [[Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận]]
+- Tuongduongvoi [[Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ]]
+- Chonen [[Đừng cầu toàn]] 

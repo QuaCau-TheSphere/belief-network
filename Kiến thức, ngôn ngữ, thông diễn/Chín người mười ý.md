@@ -1,0 +1,2 @@
+- Boivi [[Mỗi người có cách diễn giải khác nhau]]
+- Chonen [[Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy]] [[Không thể chiều lòng tất cả mọi người được]]

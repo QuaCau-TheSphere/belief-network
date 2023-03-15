@@ -1,0 +1,4 @@
+- Boivi [[Người ngoài không có tư cách thay họ]], [[Không phải việc của mình thì đừng có xía vào]]
+- Chonen [[Miễn điều mình làm không gây ảnh hưởng đến người khác là được]]
+- Tuongduongvoi [[Sự can thiệp là luôn không tôn trọng quyền tự quyết]]
+- Mauthuanvoi [[Để đến lúc nhận ra hậu quả thì đã trễ rồi]]

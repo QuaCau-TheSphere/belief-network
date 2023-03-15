@@ -1,0 +1,2 @@
+- Boivi [[Không thể nào biết hết được người khác]] [[Chín người mười ý]] 
+- Chonen [[Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy]]

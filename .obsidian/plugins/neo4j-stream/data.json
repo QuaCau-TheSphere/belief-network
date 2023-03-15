@@ -1,0 +1,8 @@
+{
+  "password": "a",
+  "typedLinkPrefix": "-",
+  "neo4jServerPort": 7687,
+  "server": "localhost",
+  "indexContent": true,
+  "debug": true
+}

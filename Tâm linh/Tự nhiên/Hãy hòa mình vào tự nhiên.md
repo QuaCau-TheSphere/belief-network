@@ -1,0 +1,4 @@
+- Boivi [[Cái gì tự nhiên thì sẽ tốt nhất]], [[Tự nhiên sẽ làm công việc của nó]]
+- Chonen [[Hãy sống trong hiện tại]]
+- Chonen [[Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản]]
+- Chonen [[Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp]]

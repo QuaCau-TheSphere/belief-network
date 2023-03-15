@@ -1,0 +1,3 @@
+- Boivi [[Mọi chuyện rồi nhất định sẽ ổn thôi]]
+- Chonen [[Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt]]
+- Mauthuanvoi [[Thật ngây thơ khi tin rằng sự tích cực sẽ đến]]

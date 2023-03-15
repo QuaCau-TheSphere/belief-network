@@ -1,0 +1,2 @@
+- Tuongduongvoi [[Nếu có kẽ hở thì sẽ có người khai thác]]
+- Chonen [[Tư bản kiểm soát người yếu thế]], [[Chính phủ kiểm soát người dân]]

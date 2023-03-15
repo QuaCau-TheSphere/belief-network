@@ -1,0 +1,2 @@
+- Boivi [[Không có gì là đúng, không có gì là sai]], [[Đúng với sai là một]]
+- Chonen [[Sử dụng lý luận thì là đang hý luận]] [[Khoa học không bao giờ tới được tâm linh]] [[Dùng lý trí là can thiệp thô bạo vào tự nhiên]]

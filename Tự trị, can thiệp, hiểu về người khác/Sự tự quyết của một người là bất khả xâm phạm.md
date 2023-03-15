@@ -1,0 +1,3 @@
+- Boivi [[Chỉ có cảm xúc là đúng nhất]]
+- Chonen [[Mỗi người phải chịu trách nhiệm cho lựa chọn của mình]]
+- Tuongduongvoi [[Sự can thiệp là luôn không tôn trọng quyền tự quyết]]

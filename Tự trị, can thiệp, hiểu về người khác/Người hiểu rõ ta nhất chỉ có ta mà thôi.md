@@ -1,0 +1,1 @@
+- Chonen [[Không thể nào biết hết được người khác]], [[Nothing about us without us]]

@@ -1,0 +1,4 @@
+- Boivi [[Con người có tính xã hội cao]]
+- Chonen [[Việt Nam là thế rồi]]
+- Chonen [[Hãy phản tư]]
+- Chonen [[Sản phẩm văn hoá đại chúng gây ảnh hưởng tới người xem]] 

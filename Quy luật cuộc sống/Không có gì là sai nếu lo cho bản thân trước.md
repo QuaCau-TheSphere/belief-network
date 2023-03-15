@@ -1,0 +1,4 @@
+- Boivi [[Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận]]
+- Chonen [[Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy]] [[Hãy tin tưởng vào khả năng chuyển hóa, ứng biến của người khác]]
+- Boivi [[Người ngoài không có tư cách thay họ]]
+- Boivi [[Sẽ luôn có người làm hại mình]]

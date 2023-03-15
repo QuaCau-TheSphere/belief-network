@@ -1,0 +1,2 @@
+- Chonen [[Chín người mười ý]], [[Nếu không hiểu được thì có giải thích cũng như không]]
+- Chonen [[Cái đẹp là thứ trong mắt người nhìn]]

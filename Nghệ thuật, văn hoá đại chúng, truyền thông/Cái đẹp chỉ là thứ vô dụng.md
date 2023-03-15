@@ -1,0 +1,2 @@
+- Boivi [[Cái đẹp thì không kích thích sự ham muốn]]
+- Chonen [[Thật vô nghĩa khi trách những người theo đuổi cái đẹp là chẳng làm được việc gì]] 

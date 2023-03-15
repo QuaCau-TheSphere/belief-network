@@ -1,0 +1,2 @@
+- Boivi [[Cái gì tự nhiên thì sẽ tốt nhất]] [[Tự nhiên sẽ cân bằng mọi thứ]]
+- Chonen [[Mọi chuyện rồi nhất định sẽ ổn thôi]], [[Chỉ cần làm những gì mình có thể làm]]
