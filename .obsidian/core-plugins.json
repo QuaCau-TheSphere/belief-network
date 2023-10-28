@@ -4,12 +4,13 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
   "note-composer",
   "command-palette",
+  "bookmarks",
   "word-count",
-  "open-with-default-app",
   "file-recovery"
 ]

@@ -1,5 +1,633 @@
 [
   {
+    "fileName": "Đừng làm mọi chuyện tệ hơn",
+    "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md",
+    "links": [
+      {
+        "link": "Không phải việc của mình thì đừng có xía vào",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
+      },
+      {
+        "link": "Lùi một bước để tiến ba bước",
+        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lùi một bước để tiến ba bước",
+        "link": "Đừng làm mọi chuyện tệ hơn",
+        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
+      },
+      {
+        "fileName": "Không phải việc của mình thì đừng có xía vào",
+        "link": "Đừng làm mọi chuyện tệ hơn",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+    "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md",
+    "links": [
+      {
+        "link": "Phải hành động trước khi quá muộn",
+        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
+      },
+      {
+        "link": "Phải làm vì những người khác, vì thế hệ sau",
+        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
+      },
+      {
+        "link": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình.md"
+      },
+      {
+        "link": "Phải tránh mọi rủi ro",
+        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
+      },
+      {
+        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
+      },
+      {
+        "link": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Mỗi người phải chịu trách nhiệm cho lựa chọn của mình.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
+      },
+      {
+        "fileName": "Phải hành động trước khi quá muộn",
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
+      },
+      {
+        "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
+      },
+      {
+        "fileName": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Mỗi người phải chịu trách nhiệm cho lựa chọn của mình.md"
+      },
+      {
+        "fileName": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình.md"
+      },
+      {
+        "fileName": "Phải tránh mọi rủi ro",
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+    "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md",
+    "links": [
+      {
+        "link": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận.md"
+      },
+      {
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      },
+      {
+        "link": "Đừng cầu toàn",
+        "relativePath": "Quy luật cuộc sống/Đừng cầu toàn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      },
+      {
+        "fileName": "Những người ở bên cạnh mình lúc khó khăn mới là những người bạn thực sự của mình",
+        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Những người ở bên cạnh mình lúc khó khăn mới là những người bạn thực sự của mình.md"
+      },
+      {
+        "fileName": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
+        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Số phận là do ta quyết định",
+    "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md",
+    "links": [
+      {
+        "link": "Hãy nuôi dưỡng sự hy vọng",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
+      },
+      {
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md"
+      },
+      {
+        "link": "Mọi thứ chỉ là sự phù hợp",
+        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mọi thứ đều là sự sắp đặt của số phận",
+        "link": "Số phận là do ta quyết định",
+        "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md"
+      },
+      {
+        "fileName": "Mọi thứ chỉ là sự phù hợp",
+        "link": "Số phận là do ta quyết định",
+        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
+      },
+      {
+        "fileName": "Hãy nuôi dưỡng sự hy vọng",
+        "link": "Số phận là do ta quyết định",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phải làm vì những người khác, vì thế hệ sau",
+    "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md",
+    "links": [
+      {
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      },
+      {
+        "link": "Phải hành động trước khi quá muộn",
+        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
+      },
+      {
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "link": "Phải làm vì những người khác, vì thế hệ sau",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "link": "Phải làm vì những người khác, vì thế hệ sau",
+        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phải hành động trước khi quá muộn",
+    "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md",
+    "links": [
+      {
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      },
+      {
+        "link": "Hãy sống trong hiện tại",
+        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "link": "Phải hành động trước khi quá muộn",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
+        "link": "Phải hành động trước khi quá muộn",
+        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
+      },
+      {
+        "fileName": "Hãy sống trong hiện tại",
+        "link": "Phải hành động trước khi quá muộn",
+        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+    "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md",
+    "links": [
+      {
+        "link": "Phải làm vì những người khác, vì thế hệ sau",
+        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
+      },
+      {
+        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
+      },
+      {
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      },
+      {
+        "link": "Hãy sống trong hiện tại",
+        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
+      },
+      {
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "link": "Hãy nuôi dưỡng sự hy vọng",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
+      },
+      {
+        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
+      },
+      {
+        "fileName": "Phải hành động trước khi quá muộn",
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
+      },
+      {
+        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      },
+      {
+        "fileName": "Hãy sống trong hiện tại",
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
+      },
+      {
+        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "fileName": "Hãy nuôi dưỡng sự hy vọng",
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+    "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md",
+    "links": [
+      {
+        "link": "Hãy hòa mình vào tự nhiên",
+        "relativePath": "Tâm linh/Tự nhiên/Hãy hòa mình vào tự nhiên.md"
+      },
+      {
+        "link": "Chỉ có cảm xúc là đúng nhất",
+        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
+      },
+      {
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "link": "Não chúng ta luôn tự đánh lừa chính mình",
+        "relativePath": "Quy luật cuộc sống/Bản chất con người/Não chúng ta luôn tự đánh lừa chính mình.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "fileName": "Hãy hòa mình vào tự nhiên",
+        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "relativePath": "Tâm linh/Tự nhiên/Hãy hòa mình vào tự nhiên.md"
+      },
+      {
+        "fileName": "Não chúng ta luôn tự đánh lừa chính mình",
+        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "relativePath": "Quy luật cuộc sống/Bản chất con người/Não chúng ta luôn tự đánh lừa chính mình.md"
+      },
+      {
+        "fileName": "Chỉ có cảm xúc là đúng nhất",
+        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Named must your fear be before banish it you can – Yoda",
+    "relativePath": "Thay đổi thực tại/Named must your fear be before banish it you can – Yoda.md",
+    "links": [
+      {
+        "link": "Tri thức là sức mạnh",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
+      },
+      {
+        "link": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Ngôn ngữ không bao giờ có thể diễn tả hết được.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Tri thức là sức mạnh",
+        "link": "Named must your fear be before banish it you can – Yoda",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
+      },
+      {
+        "fileName": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
+        "link": "Named must your fear be before banish it you can – Yoda",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Ngôn ngữ không bao giờ có thể diễn tả hết được.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mục đích biện minh cho phương tiện",
+    "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md",
+    "links": [
+      {
+        "link": "Lùi một bước để tiến ba bước",
+        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
+      },
+      {
+        "link": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lùi một bước để tiến ba bước",
+        "link": "Mục đích biện minh cho phương tiện",
+        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
+      },
+      {
+        "fileName": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
+        "link": "Mục đích biện minh cho phương tiện",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lùi một bước để tiến ba bước",
+    "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md",
+    "links": [
+      {
+        "link": "Hãy thích ứng linh hoạt với cuộc sống",
+        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
+      },
+      {
+        "link": "Đừng làm mọi chuyện tệ hơn",
+        "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md"
+      },
+      {
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "link": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
+      },
+      {
+        "link": "Mục đích biện minh cho phương tiện",
+        "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Đừng làm mọi chuyện tệ hơn",
+        "link": "Lùi một bước để tiến ba bước",
+        "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md"
+      },
+      {
+        "fileName": "Mục đích biện minh cho phương tiện",
+        "link": "Lùi một bước để tiến ba bước",
+        "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md"
+      },
+      {
+        "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
+        "link": "Lùi một bước để tiến ba bước",
+        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
+      },
+      {
+        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "link": "Lùi một bước để tiến ba bước",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "fileName": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
+        "link": "Lùi một bước để tiến ba bước",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
+    "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md",
+    "links": [
+      {
+        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
+      },
+      {
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
+        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
+      },
+      {
+        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Luật là để bảo vệ công bằng, công lý",
+    "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md",
+    "links": [
+      {
+        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
+      },
+      {
+        "link": "Chính phủ kiểm soát người dân",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
+        "link": "Luật là để bảo vệ công bằng, công lý",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
+      },
+      {
+        "fileName": "Chính phủ kiểm soát người dân",
+        "link": "Luật là để bảo vệ công bằng, công lý",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
+    "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md",
+    "tags": [
+      "chuẩntắc"
+    ],
+    "links": [
+      {
+        "link": "Luật là để bảo vệ công bằng, công lý",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
+      },
+      {
+        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
+        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
+      },
+      {
+        "fileName": "Luật là để bảo vệ công bằng, công lý",
+        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+    "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md",
+    "headings": [
+      {
+        "heading": "Tâm linh",
+        "level": 1
+      },
+      {
+        "heading": "Thay đổi thực tại",
+        "level": 1
+      },
+      {
+        "heading": "Tự trị, can thiệp, hiểu về người khác",
+        "level": 1
+      },
+      {
+        "heading": "Kiến thức, ngôn ngữ, diễn ngôn",
+        "level": 1
+      },
+      {
+        "heading": "Lạc quan, hy vọng, tin tưởng",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
+        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
+      },
+      {
+        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      },
+      {
+        "link": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
+      },
+      {
+        "link": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự can thiệp là luôn không tôn trọng quyền tự quyết.md"
+      },
+      {
+        "link": "Hãy dám biết",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
+      },
+      {
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
+      },
+      {
+        "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      },
+      {
+        "fileName": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
+      },
+      {
+        "fileName": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự can thiệp là luôn không tôn trọng quyền tự quyết.md"
+      },
+      {
+        "fileName": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
+      },
+      {
+        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "fileName": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
+        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Give them an inch and they will take a mile",
+    "relativePath": "Tự trị, can thiệp, hiểu về người khác/Give them an inch and they will take a mile.md",
+    "backlinks": [
+      {
+        "fileName": "Nếu có kẽ hở thì sẽ có người khai thác",
+        "link": "Give them an inch and they will take a mile",
+        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
+      }
+    ]
+  },
+  {
     "fileName": "Ta chỉ có thể tác động khi họ muốn thay đổi",
     "relativePath": "Tự trị, can thiệp, hiểu về người khác/Ta chỉ có thể tác động khi họ muốn thay đổi.md",
     "links": [
@@ -100,6 +728,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "link": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      },
+      {
         "fileName": "Sự tự quyết của một người là bất khả xâm phạm",
         "link": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự tự quyết của một người là bất khả xâm phạm.md"
@@ -123,11 +756,6 @@
         "fileName": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
         "link": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
         "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
-      },
-      {
-        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "link": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
       }
     ]
   },
@@ -342,6 +970,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+        "link": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
+        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
+      },
+      {
         "fileName": "Ta chỉ có thể tác động khi họ muốn thay đổi",
         "link": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Ta chỉ có thể tác động khi họ muốn thay đổi.md"
@@ -350,11 +983,6 @@
         "fileName": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
         "link": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự can thiệp là luôn không tôn trọng quyền tự quyết.md"
-      },
-      {
-        "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-        "link": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
-        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
       },
       {
         "fileName": "Thật vô ích để thay đổi",
@@ -432,6 +1060,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "link": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
         "fileName": "Ta chỉ có thể tác động khi họ muốn thay đổi",
         "link": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Ta chỉ có thể tác động khi họ muốn thay đổi.md"
@@ -445,33 +1078,6 @@
         "fileName": "Người ngoài không có tư cách thay họ",
         "link": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Người ngoài không có tư cách thay họ.md"
-      },
-      {
-        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "link": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Miễn điều mình làm không gây ảnh hưởng đến người khác là được",
-    "relativePath": "Tự trị, can thiệp, hiểu về người khác/Miễn điều mình làm không gây ảnh hưởng đến người khác là được.md",
-    "links": [
-      {
-        "link": "Không phải việc của mình thì đừng có xía vào",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
-        "link": "Miễn điều mình làm không gây ảnh hưởng đến người khác là được",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Mỗi người phải chịu trách nhiệm cho lựa chọn của mình.md"
-      },
-      {
-        "fileName": "Không phải việc của mình thì đừng có xía vào",
-        "link": "Miễn điều mình làm không gây ảnh hưởng đến người khác là được",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
       }
     ]
   },
@@ -507,6 +1113,28 @@
         "fileName": "Hãy tin tưởng vào khả năng chuyển hóa, ứng biến của người khác",
         "link": "Không thể nào biết hết được người khác",
         "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy tin tưởng vào khả năng chuyển hóa, ứng biến của người khác.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Miễn điều mình làm không gây ảnh hưởng đến người khác là được",
+    "relativePath": "Tự trị, can thiệp, hiểu về người khác/Miễn điều mình làm không gây ảnh hưởng đến người khác là được.md",
+    "links": [
+      {
+        "link": "Không phải việc của mình thì đừng có xía vào",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
+        "link": "Miễn điều mình làm không gây ảnh hưởng đến người khác là được",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Mỗi người phải chịu trách nhiệm cho lựa chọn của mình.md"
+      },
+      {
+        "fileName": "Không phải việc của mình thì đừng có xía vào",
+        "link": "Miễn điều mình làm không gây ảnh hưởng đến người khác là được",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
       }
     ]
   },
@@ -574,6 +1202,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Đừng làm mọi chuyện tệ hơn",
+        "link": "Không phải việc của mình thì đừng có xía vào",
+        "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md"
+      },
+      {
         "fileName": "Người ngoài không có tư cách thay họ",
         "link": "Không phải việc của mình thì đừng có xía vào",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Người ngoài không có tư cách thay họ.md"
@@ -592,11 +1225,6 @@
         "fileName": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
         "link": "Không phải việc của mình thì đừng có xía vào",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình.md"
-      },
-      {
-        "fileName": "Đừng làm mọi chuyện tệ hơn",
-        "link": "Không phải việc của mình thì đừng có xía vào",
-        "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md"
       }
     ]
   },
@@ -631,6 +1259,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "link": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
         "fileName": "Những người ở bên cạnh mình lúc khó khăn mới là những người bạn thực sự của mình",
         "link": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Những người ở bên cạnh mình lúc khó khăn mới là những người bạn thực sự của mình.md"
@@ -646,11 +1279,6 @@
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
       },
       {
-        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "link": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
         "fileName": "Não chúng ta luôn tự đánh lừa chính mình",
         "link": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
         "relativePath": "Quy luật cuộc sống/Bản chất con người/Não chúng ta luôn tự đánh lừa chính mình.md"
@@ -659,6 +1287,74 @@
         "fileName": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
         "link": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
         "relativePath": "Lạc quan, hy vọng, tin tưởng/Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mọi thứ đều là sự sắp đặt của số phận",
+    "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md",
+    "headings": [
+      {
+        "heading": "Tâm linh",
+        "level": 1
+      },
+      {
+        "heading": "Khác",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Chúa có tồn tại",
+        "relativePath": "Tâm linh/Chúa có tồn tại.md"
+      },
+      {
+        "link": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
+        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
+      },
+      {
+        "link": "Cái gì tự nhiên thì sẽ tốt nhất",
+        "relativePath": "Tâm linh/Tự nhiên/Cái gì tự nhiên thì sẽ tốt nhất.md"
+      },
+      {
+        "link": "Số phận là do ta quyết định",
+        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
+      },
+      {
+        "link": "Thật vô ích để thay đổi",
+        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Số phận là do ta quyết định",
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
+      },
+      {
+        "fileName": "Cái gì tự nhiên thì sẽ tốt nhất",
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Tâm linh/Tự nhiên/Cái gì tự nhiên thì sẽ tốt nhất.md"
+      },
+      {
+        "fileName": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
+      },
+      {
+        "fileName": "Chúa có tồn tại",
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Tâm linh/Chúa có tồn tại.md"
+      },
+      {
+        "fileName": "Thật vô ích để thay đổi",
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
+      },
+      {
+        "fileName": "Mọi thứ chỉ là sự phù hợp",
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
       }
     ]
   },
@@ -764,74 +1460,6 @@
     ]
   },
   {
-    "fileName": "Mọi thứ đều là sự sắp đặt của số phận",
-    "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md",
-    "headings": [
-      {
-        "heading": "Tâm linh",
-        "level": 1
-      },
-      {
-        "heading": "Khác",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Chúa có tồn tại",
-        "relativePath": "Tâm linh/Chúa có tồn tại.md"
-      },
-      {
-        "link": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
-        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
-      },
-      {
-        "link": "Cái gì tự nhiên thì sẽ tốt nhất",
-        "relativePath": "Tâm linh/Tự nhiên/Cái gì tự nhiên thì sẽ tốt nhất.md"
-      },
-      {
-        "link": "Số phận là do ta quyết định",
-        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
-      },
-      {
-        "link": "Thật vô ích để thay đổi",
-        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cái gì tự nhiên thì sẽ tốt nhất",
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Tâm linh/Tự nhiên/Cái gì tự nhiên thì sẽ tốt nhất.md"
-      },
-      {
-        "fileName": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
-      },
-      {
-        "fileName": "Chúa có tồn tại",
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Tâm linh/Chúa có tồn tại.md"
-      },
-      {
-        "fileName": "Số phận là do ta quyết định",
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
-      },
-      {
-        "fileName": "Thật vô ích để thay đổi",
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
-      },
-      {
-        "fileName": "Mọi thứ chỉ là sự phù hợp",
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
-      }
-    ]
-  },
-  {
     "fileName": "Hãy hòa mình vào tự nhiên",
     "relativePath": "Tâm linh/Tự nhiên/Hãy hòa mình vào tự nhiên.md",
     "links": [
@@ -858,6 +1486,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "link": "Hãy hòa mình vào tự nhiên",
+        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
+      },
+      {
         "fileName": "Tự nhiên sẽ làm công việc của nó",
         "link": "Hãy hòa mình vào tự nhiên",
         "relativePath": "Tâm linh/Tự nhiên/Tự nhiên sẽ làm công việc của nó.md"
@@ -871,11 +1504,6 @@
         "fileName": "Hãy sống trong hiện tại",
         "link": "Hãy hòa mình vào tự nhiên",
         "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
-      },
-      {
-        "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "link": "Hãy hòa mình vào tự nhiên",
-        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
       },
       {
         "fileName": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
@@ -923,6 +1551,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      },
+      {
         "fileName": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
         "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự can thiệp là luôn không tôn trọng quyền tự quyết.md"
@@ -946,11 +1579,6 @@
         "fileName": "Dùng logic là nhị nguyên",
         "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
         "relativePath": "Tâm linh/Logic/Dùng logic là nhị nguyên.md"
-      },
-      {
-        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
       },
       {
         "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
@@ -1005,14 +1633,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Tự nhiên sẽ cân bằng mọi thứ",
-        "link": "Cái gì tự nhiên thì sẽ tốt nhất",
-        "relativePath": "Tâm linh/Tự nhiên/Tự nhiên sẽ cân bằng mọi thứ.md"
-      },
-      {
         "fileName": "Mọi thứ đều là sự sắp đặt của số phận",
         "link": "Cái gì tự nhiên thì sẽ tốt nhất",
         "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md"
+      },
+      {
+        "fileName": "Tự nhiên sẽ cân bằng mọi thứ",
+        "link": "Cái gì tự nhiên thì sẽ tốt nhất",
+        "relativePath": "Tâm linh/Tự nhiên/Tự nhiên sẽ cân bằng mọi thứ.md"
       },
       {
         "fileName": "Hãy hòa mình vào tự nhiên",
@@ -1055,14 +1683,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
-        "link": "Đúng với sai là một",
-        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
-      },
-      {
         "fileName": "Không có gì là đúng, không có gì là sai",
         "link": "Đúng với sai là một",
         "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md"
+      },
+      {
+        "fileName": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
+        "link": "Đúng với sai là một",
+        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
       },
       {
         "fileName": "Dùng logic là nhị nguyên",
@@ -1103,6 +1731,59 @@
         "fileName": "Hãy dám biết",
         "link": "Sử dụng lý luận thì là đang hý luận",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Không có gì là đúng, không có gì là sai",
+    "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md",
+    "links": [
+      {
+        "link": "Đúng với sai là một",
+        "relativePath": "Tâm linh/Logic/Đúng với sai là một.md"
+      },
+      {
+        "link": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
+        "relativePath": "Cảm xúc/Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận.md"
+      },
+      {
+        "link": "Mọi thứ chỉ là sự phù hợp",
+        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
+      },
+      {
+        "link": "Hãy thích ứng linh hoạt với cuộc sống",
+        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
+      },
+      {
+        "link": "Chỉ có cảm xúc là đúng nhất",
+        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Đúng với sai là một",
+        "link": "Không có gì là đúng, không có gì là sai",
+        "relativePath": "Tâm linh/Logic/Đúng với sai là một.md"
+      },
+      {
+        "fileName": "Dùng logic là nhị nguyên",
+        "link": "Không có gì là đúng, không có gì là sai",
+        "relativePath": "Tâm linh/Logic/Dùng logic là nhị nguyên.md"
+      },
+      {
+        "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
+        "link": "Không có gì là đúng, không có gì là sai",
+        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
+      },
+      {
+        "fileName": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
+        "link": "Không có gì là đúng, không có gì là sai",
+        "relativePath": "Cảm xúc/Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận.md"
+      },
+      {
+        "fileName": "Chỉ có cảm xúc là đúng nhất",
+        "link": "Không có gì là đúng, không có gì là sai",
+        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
       }
     ]
   },
@@ -1219,59 +1900,6 @@
     ]
   },
   {
-    "fileName": "Không có gì là đúng, không có gì là sai",
-    "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md",
-    "links": [
-      {
-        "link": "Đúng với sai là một",
-        "relativePath": "Tâm linh/Logic/Đúng với sai là một.md"
-      },
-      {
-        "link": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
-        "relativePath": "Cảm xúc/Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận.md"
-      },
-      {
-        "link": "Mọi thứ chỉ là sự phù hợp",
-        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
-      },
-      {
-        "link": "Hãy thích ứng linh hoạt với cuộc sống",
-        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
-      },
-      {
-        "link": "Chỉ có cảm xúc là đúng nhất",
-        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Đúng với sai là một",
-        "link": "Không có gì là đúng, không có gì là sai",
-        "relativePath": "Tâm linh/Logic/Đúng với sai là một.md"
-      },
-      {
-        "fileName": "Dùng logic là nhị nguyên",
-        "link": "Không có gì là đúng, không có gì là sai",
-        "relativePath": "Tâm linh/Logic/Dùng logic là nhị nguyên.md"
-      },
-      {
-        "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
-        "link": "Không có gì là đúng, không có gì là sai",
-        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
-      },
-      {
-        "fileName": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
-        "link": "Không có gì là đúng, không có gì là sai",
-        "relativePath": "Cảm xúc/Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận.md"
-      },
-      {
-        "fileName": "Chỉ có cảm xúc là đúng nhất",
-        "link": "Không có gì là đúng, không có gì là sai",
-        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
-      }
-    ]
-  },
-  {
     "fileName": "Dùng logic là nhị nguyên",
     "relativePath": "Tâm linh/Logic/Dùng logic là nhị nguyên.md",
     "links": [
@@ -1337,6 +1965,32 @@
     ]
   },
   {
+    "fileName": "Kiếp sau có tồn tại",
+    "relativePath": "Tâm linh/Kiếp sau có tồn tại.md",
+    "links": [
+      {
+        "link": "Cuộc đời ở kiếp này là vậy",
+        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
+      },
+      {
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cuộc đời ở kiếp này là vậy",
+        "link": "Kiếp sau có tồn tại",
+        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
+      },
+      {
+        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "link": "Kiếp sau có tồn tại",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      }
+    ]
+  },
+  {
     "fileName": "Hãy sống trong hiện tại",
     "relativePath": "Tâm linh/Hãy sống trong hiện tại.md",
     "headings": [
@@ -1393,16 +2047,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Hãy hòa mình vào tự nhiên",
-        "link": "Hãy sống trong hiện tại",
-        "relativePath": "Tâm linh/Tự nhiên/Hãy hòa mình vào tự nhiên.md"
-      },
-      {
-        "fileName": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
-        "link": "Hãy sống trong hiện tại",
-        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
-      },
-      {
         "fileName": "Phải hành động trước khi quá muộn",
         "link": "Hãy sống trong hiện tại",
         "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
@@ -1411,6 +2055,16 @@
         "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
         "link": "Hãy sống trong hiện tại",
         "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      },
+      {
+        "fileName": "Hãy hòa mình vào tự nhiên",
+        "link": "Hãy sống trong hiện tại",
+        "relativePath": "Tâm linh/Tự nhiên/Hãy hòa mình vào tự nhiên.md"
+      },
+      {
+        "fileName": "Nếu đã giác ngộ thì sẽ biết hết tất cả",
+        "link": "Hãy sống trong hiện tại",
+        "relativePath": "Tâm linh/Logic/Nếu đã giác ngộ thì sẽ biết hết tất cả.md"
       },
       {
         "fileName": "Tương lai không đoán trước được",
@@ -1431,32 +2085,6 @@
         "fileName": "Chỉ có cảm xúc là đúng nhất",
         "link": "Hãy sống trong hiện tại",
         "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Kiếp sau có tồn tại",
-    "relativePath": "Tâm linh/Kiếp sau có tồn tại.md",
-    "links": [
-      {
-        "link": "Cuộc đời ở kiếp này là vậy",
-        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
-      },
-      {
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cuộc đời ở kiếp này là vậy",
-        "link": "Kiếp sau có tồn tại",
-        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
-      },
-      {
-        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "link": "Kiếp sau có tồn tại",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
       }
     ]
   },
@@ -1504,663 +2132,28 @@
     ]
   },
   {
-    "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-    "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md",
-    "links": [
-      {
-        "link": "Phải hành động trước khi quá muộn",
-        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
-      },
-      {
-        "link": "Phải làm vì những người khác, vì thế hệ sau",
-        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
-      },
-      {
-        "link": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình.md"
-      },
-      {
-        "link": "Phải tránh mọi rủi ro",
-        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
-      },
-      {
-        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
-      },
-      {
-        "link": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Mỗi người phải chịu trách nhiệm cho lựa chọn của mình.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mỗi người phải chịu trách nhiệm cho lựa chọn của mình",
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Mỗi người phải chịu trách nhiệm cho lựa chọn của mình.md"
-      },
-      {
-        "fileName": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình.md"
-      },
-      {
-        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
-      },
-      {
-        "fileName": "Phải hành động trước khi quá muộn",
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
-      },
-      {
-        "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
-      },
-      {
-        "fileName": "Phải tránh mọi rủi ro",
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Đừng làm mọi chuyện tệ hơn",
-    "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md",
-    "links": [
-      {
-        "link": "Không phải việc của mình thì đừng có xía vào",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
-      },
-      {
-        "link": "Lùi một bước để tiến ba bước",
-        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Không phải việc của mình thì đừng có xía vào",
-        "link": "Đừng làm mọi chuyện tệ hơn",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md"
-      },
-      {
-        "fileName": "Lùi một bước để tiến ba bước",
-        "link": "Đừng làm mọi chuyện tệ hơn",
-        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-    "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md",
-    "links": [
-      {
-        "link": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận.md"
-      },
-      {
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
-      },
-      {
-        "link": "Đừng cầu toàn",
-        "relativePath": "Quy luật cuộc sống/Đừng cầu toàn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Những người ở bên cạnh mình lúc khó khăn mới là những người bạn thực sự của mình",
-        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Những người ở bên cạnh mình lúc khó khăn mới là những người bạn thực sự của mình.md"
-      },
-      {
-        "fileName": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
-        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận.md"
-      },
-      {
-        "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Số phận là do ta quyết định",
-    "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md",
-    "links": [
-      {
-        "link": "Hãy nuôi dưỡng sự hy vọng",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
-      },
-      {
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md"
-      },
-      {
-        "link": "Mọi thứ chỉ là sự phù hợp",
-        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mọi thứ đều là sự sắp đặt của số phận",
-        "link": "Số phận là do ta quyết định",
-        "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md"
-      },
-      {
-        "fileName": "Mọi thứ chỉ là sự phù hợp",
-        "link": "Số phận là do ta quyết định",
-        "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md"
-      },
-      {
-        "fileName": "Hãy nuôi dưỡng sự hy vọng",
-        "link": "Số phận là do ta quyết định",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Phải làm vì những người khác, vì thế hệ sau",
-    "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md",
-    "links": [
-      {
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
-      },
-      {
-        "link": "Phải hành động trước khi quá muộn",
-        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
-      },
-      {
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "link": "Phải làm vì những người khác, vì thế hệ sau",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "link": "Phải làm vì những người khác, vì thế hệ sau",
-        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Phải hành động trước khi quá muộn",
-    "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md",
-    "links": [
-      {
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
-      },
-      {
-        "link": "Hãy sống trong hiện tại",
-        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Hãy sống trong hiện tại",
-        "link": "Phải hành động trước khi quá muộn",
-        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
-      },
-      {
-        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "link": "Phải hành động trước khi quá muộn",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
-        "link": "Phải hành động trước khi quá muộn",
-        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-    "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md",
-    "links": [
-      {
-        "link": "Hãy hòa mình vào tự nhiên",
-        "relativePath": "Tâm linh/Tự nhiên/Hãy hòa mình vào tự nhiên.md"
-      },
-      {
-        "link": "Chỉ có cảm xúc là đúng nhất",
-        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
-      },
-      {
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "link": "Não chúng ta luôn tự đánh lừa chính mình",
-        "relativePath": "Quy luật cuộc sống/Bản chất con người/Não chúng ta luôn tự đánh lừa chính mình.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Hãy hòa mình vào tự nhiên",
-        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "relativePath": "Tâm linh/Tự nhiên/Hãy hòa mình vào tự nhiên.md"
-      },
-      {
-        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "fileName": "Não chúng ta luôn tự đánh lừa chính mình",
-        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "relativePath": "Quy luật cuộc sống/Bản chất con người/Não chúng ta luôn tự đánh lừa chính mình.md"
-      },
-      {
-        "fileName": "Chỉ có cảm xúc là đúng nhất",
-        "link": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-    "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md",
-    "links": [
-      {
-        "link": "Phải làm vì những người khác, vì thế hệ sau",
-        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
-      },
-      {
-        "link": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
-      },
-      {
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
-      },
-      {
-        "link": "Hãy sống trong hiện tại",
-        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
-      },
-      {
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "link": "Hãy nuôi dưỡng sự hy vọng",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Hãy sống trong hiện tại",
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
-      },
-      {
-        "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
-      },
-      {
-        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
-      },
-      {
-        "fileName": "Phải hành động trước khi quá muộn",
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Phải hành động trước khi quá muộn.md"
-      },
-      {
-        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
-      },
-      {
-        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "fileName": "Hãy nuôi dưỡng sự hy vọng",
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Named must your fear be before banish it you can – Yoda",
-    "relativePath": "Thay đổi thực tại/Named must your fear be before banish it you can – Yoda.md",
-    "links": [
-      {
-        "link": "Tri thức là sức mạnh",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
-      },
-      {
-        "link": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Ngôn ngữ không bao giờ có thể diễn tả hết được.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Tri thức là sức mạnh",
-        "link": "Named must your fear be before banish it you can – Yoda",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
-      },
-      {
-        "fileName": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
-        "link": "Named must your fear be before banish it you can – Yoda",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Ngôn ngữ không bao giờ có thể diễn tả hết được.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Lùi một bước để tiến ba bước",
-    "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md",
+    "fileName": "Đừng cầu toàn",
+    "relativePath": "Quy luật cuộc sống/Đừng cầu toàn.md",
     "links": [
       {
         "link": "Hãy thích ứng linh hoạt với cuộc sống",
         "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
       },
       {
-        "link": "Đừng làm mọi chuyện tệ hơn",
-        "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md"
-      },
-      {
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "link": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
-      },
-      {
-        "link": "Mục đích biện minh cho phương tiện",
-        "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md"
+        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Đừng làm mọi chuyện tệ hơn",
-        "link": "Lùi một bước để tiến ba bước",
-        "relativePath": "Thay đổi thực tại/Đừng làm mọi chuyện tệ hơn.md"
-      },
-      {
-        "fileName": "Mục đích biện minh cho phương tiện",
-        "link": "Lùi một bước để tiến ba bước",
-        "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md"
+        "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
+        "link": "Đừng cầu toàn",
+        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
       },
       {
         "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
-        "link": "Lùi một bước để tiến ba bước",
+        "link": "Đừng cầu toàn",
         "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
-      },
-      {
-        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "link": "Lùi một bước để tiến ba bước",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "fileName": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
-        "link": "Lùi một bước để tiến ba bước",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Mục đích biện minh cho phương tiện",
-    "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md",
-    "links": [
-      {
-        "link": "Lùi một bước để tiến ba bước",
-        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
-      },
-      {
-        "link": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Lùi một bước để tiến ba bước",
-        "link": "Mục đích biện minh cho phương tiện",
-        "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
-      },
-      {
-        "fileName": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
-        "link": "Mục đích biện minh cho phương tiện",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
-    "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md",
-    "links": [
-      {
-        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
-      },
-      {
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
-        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
-      },
-      {
-        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Luật là để bảo vệ công bằng, công lý",
-    "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md",
-    "links": [
-      {
-        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
-      },
-      {
-        "link": "Chính phủ kiểm soát người dân",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
-        "link": "Luật là để bảo vệ công bằng, công lý",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md"
-      },
-      {
-        "fileName": "Chính phủ kiểm soát người dân",
-        "link": "Luật là để bảo vệ công bằng, công lý",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
-    "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md",
-    "tags": [
-      "chuẩntắc"
-    ],
-    "links": [
-      {
-        "link": "Luật là để bảo vệ công bằng, công lý",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
-      },
-      {
-        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
-        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
-      },
-      {
-        "fileName": "Luật là để bảo vệ công bằng, công lý",
-        "link": "Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-    "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md",
-    "headings": [
-      {
-        "heading": "Tâm linh",
-        "level": 1
-      },
-      {
-        "heading": "Thay đổi thực tại",
-        "level": 1
-      },
-      {
-        "heading": "Tự trị, can thiệp, hiểu về người khác",
-        "level": 1
-      },
-      {
-        "heading": "Kiến thức, ngôn ngữ, diễn ngôn",
-        "level": 1
-      },
-      {
-        "heading": "Lạc quan, hy vọng, tin tưởng",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
-        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
-      },
-      {
-        "link": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
-      },
-      {
-        "link": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
-      },
-      {
-        "link": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự can thiệp là luôn không tôn trọng quyền tự quyết.md"
-      },
-      {
-        "link": "Hãy dám biết",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
-      },
-      {
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "link": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sự can thiệp là luôn không tôn trọng quyền tự quyết",
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự can thiệp là luôn không tôn trọng quyền tự quyết.md"
-      },
-      {
-        "fileName": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
-      },
-      {
-        "fileName": "Phải làm vì những người khác, vì thế hệ sau",
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Thay đổi thực tại/Phải làm vì những người khác, vì thế hệ sau.md"
-      },
-      {
-        "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
-      },
-      {
-        "fileName": "Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ",
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Nếu luật không công bằng đổi với tôi thì tôi không có nghĩa vụ tuân thủ.md"
-      },
-      {
-        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "fileName": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
-        "link": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Tư bản kiểm soát người yếu thế",
-    "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md",
-    "links": [
-      {
-        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
-      },
-      {
-        "link": "Sẽ luôn có người làm hại mình",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
-      },
-      {
-        "link": "Chính phủ kiểm soát người dân",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
-      },
-      {
-        "link": "Hãy đặt niềm tin vào người khác",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-        "link": "Tư bản kiểm soát người yếu thế",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
-      },
-      {
-        "fileName": "Sẽ luôn có người làm hại mình",
-        "link": "Tư bản kiểm soát người yếu thế",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
-      },
-      {
-        "fileName": "Chính phủ kiểm soát người dân",
-        "link": "Tư bản kiểm soát người yếu thế",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
-      },
-      {
-        "fileName": "Hãy đặt niềm tin vào người khác",
-        "link": "Tư bản kiểm soát người yếu thế",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
       }
     ]
   },
@@ -2191,37 +2184,46 @@
     ]
   },
   {
-    "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-    "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md",
+    "fileName": "Tư bản kiểm soát người yếu thế",
+    "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md",
     "links": [
       {
-        "link": "Nếu có kẽ hở thì sẽ có người khai thác",
-        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
+        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
       },
       {
-        "link": "Tư bản kiểm soát người yếu thế",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
+        "link": "Sẽ luôn có người làm hại mình",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
       },
       {
         "link": "Chính phủ kiểm soát người dân",
         "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
+      },
+      {
+        "link": "Hãy đặt niềm tin vào người khác",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Tư bản kiểm soát người yếu thế",
-        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
+        "fileName": "Sẽ luôn có người làm hại mình",
+        "link": "Tư bản kiểm soát người yếu thế",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "link": "Tư bản kiểm soát người yếu thế",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
       },
       {
         "fileName": "Chính phủ kiểm soát người dân",
-        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "link": "Tư bản kiểm soát người yếu thế",
         "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
       },
       {
-        "fileName": "Nếu có kẽ hở thì sẽ có người khai thác",
-        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
+        "fileName": "Hãy đặt niềm tin vào người khác",
+        "link": "Tư bản kiểm soát người yếu thế",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
       }
     ]
   },
@@ -2297,6 +2299,85 @@
     ]
   },
   {
+    "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+    "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md",
+    "links": [
+      {
+        "link": "Nếu có kẽ hở thì sẽ có người khai thác",
+        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
+      },
+      {
+        "link": "Tư bản kiểm soát người yếu thế",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
+      },
+      {
+        "link": "Chính phủ kiểm soát người dân",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Tư bản kiểm soát người yếu thế",
+        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
+      },
+      {
+        "fileName": "Chính phủ kiểm soát người dân",
+        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md"
+      },
+      {
+        "fileName": "Nếu có kẽ hở thì sẽ có người khai thác",
+        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Chính phủ kiểm soát người dân",
+    "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md",
+    "links": [
+      {
+        "link": "Tư bản kiểm soát người yếu thế",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
+      },
+      {
+        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
+      },
+      {
+        "link": "Sẽ luôn có người làm hại mình",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "link": "Luật là để bảo vệ công bằng, công lý",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Luật là để bảo vệ công bằng, công lý",
+        "link": "Chính phủ kiểm soát người dân",
+        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
+      },
+      {
+        "fileName": "Tư bản kiểm soát người yếu thế",
+        "link": "Chính phủ kiểm soát người dân",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
+      },
+      {
+        "fileName": "Sẽ luôn có người làm hại mình",
+        "link": "Chính phủ kiểm soát người dân",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "link": "Chính phủ kiểm soát người dân",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
+      }
+    ]
+  },
+  {
     "fileName": "Mọi người chỉ chạy theo đám đông",
     "relativePath": "Quy luật cuộc sống/Xã hội/Mọi người chỉ chạy theo đám đông.md",
     "links": [
@@ -2337,76 +2418,6 @@
         "fileName": "Hãy phản tư",
         "link": "Mọi người chỉ chạy theo đám đông",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Chính phủ kiểm soát người dân",
-    "relativePath": "Quy luật cuộc sống/Xã hội/Chính phủ kiểm soát người dân.md",
-    "links": [
-      {
-        "link": "Tư bản kiểm soát người yếu thế",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
-      },
-      {
-        "link": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
-      },
-      {
-        "link": "Sẽ luôn có người làm hại mình",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
-      },
-      {
-        "link": "Luật là để bảo vệ công bằng, công lý",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Luật là để bảo vệ công bằng, công lý",
-        "link": "Chính phủ kiểm soát người dân",
-        "relativePath": "Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md"
-      },
-      {
-        "fileName": "Tư bản kiểm soát người yếu thế",
-        "link": "Chính phủ kiểm soát người dân",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Tư bản kiểm soát người yếu thế.md"
-      },
-      {
-        "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-        "link": "Chính phủ kiểm soát người dân",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
-      },
-      {
-        "fileName": "Sẽ luôn có người làm hại mình",
-        "link": "Chính phủ kiểm soát người dân",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Đừng cầu toàn",
-    "relativePath": "Quy luật cuộc sống/Đừng cầu toàn.md",
-    "links": [
-      {
-        "link": "Hãy thích ứng linh hoạt với cuộc sống",
-        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
-      },
-      {
-        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến",
-        "link": "Đừng cầu toàn",
-        "relativePath": "Thay đổi thực tại/Sự sẵn sàng chỉ đến khi ta dấn thân, chứ không phải đến từ việc đợi nó đến.md"
-      },
-      {
-        "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
-        "link": "Đừng cầu toàn",
-        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
       }
     ]
   },
@@ -2465,85 +2476,6 @@
         "fileName": "Nếu không thấy hợp lý thì không đáng lắng nghe",
         "link": "Thứ bỏ đi thì không đáng tốn thời gian để tìm hiểu nó kỹ hơn",
         "relativePath": "Quy luật cuộc sống/Nếu không thấy hợp lý thì không đáng lắng nghe.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Phải tránh mọi rủi ro",
-    "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md",
-    "links": [
-      {
-        "link": "Nếu có kẽ hở thì sẽ có người khai thác",
-        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
-      },
-      {
-        "link": "Sẽ luôn có người làm hại mình",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
-      },
-      {
-        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "link": "Hãy chấp nhận rủi ro",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md"
-      },
-      {
-        "link": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
-        "link": "Phải tránh mọi rủi ro",
-        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
-      },
-      {
-        "fileName": "Sẽ luôn có người làm hại mình",
-        "link": "Phải tránh mọi rủi ro",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
-      },
-      {
-        "fileName": "Nếu có kẽ hở thì sẽ có người khai thác",
-        "link": "Phải tránh mọi rủi ro",
-        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
-      },
-      {
-        "fileName": "Hãy chấp nhận rủi ro",
-        "link": "Phải tránh mọi rủi ro",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md"
-      },
-      {
-        "fileName": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
-        "link": "Phải tránh mọi rủi ro",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sinh ra là như thế",
-    "relativePath": "Quy luật cuộc sống/Sinh ra là như thế.md",
-    "links": [
-      {
-        "link": "Cuộc đời ở kiếp này là vậy",
-        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
-      },
-      {
-        "link": "Thật vô ích để thay đổi",
-        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Cuộc đời ở kiếp này là vậy",
-        "link": "Sinh ra là như thế",
-        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
-      },
-      {
-        "fileName": "Thật vô ích để thay đổi",
-        "link": "Sinh ra là như thế",
-        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
       }
     ]
   },
@@ -2683,6 +2615,85 @@
     ]
   },
   {
+    "fileName": "Phải tránh mọi rủi ro",
+    "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md",
+    "links": [
+      {
+        "link": "Nếu có kẽ hở thì sẽ có người khai thác",
+        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
+      },
+      {
+        "link": "Sẽ luôn có người làm hại mình",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "link": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "link": "Hãy chấp nhận rủi ro",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md"
+      },
+      {
+        "link": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Để đến lúc nhận ra hậu quả thì đã trễ rồi",
+        "link": "Phải tránh mọi rủi ro",
+        "relativePath": "Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md"
+      },
+      {
+        "fileName": "Sẽ luôn có người làm hại mình",
+        "link": "Phải tránh mọi rủi ro",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "fileName": "Nếu có kẽ hở thì sẽ có người khai thác",
+        "link": "Phải tránh mọi rủi ro",
+        "relativePath": "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md"
+      },
+      {
+        "fileName": "Hãy chấp nhận rủi ro",
+        "link": "Phải tránh mọi rủi ro",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md"
+      },
+      {
+        "fileName": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
+        "link": "Phải tránh mọi rủi ro",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sinh ra là như thế",
+    "relativePath": "Quy luật cuộc sống/Sinh ra là như thế.md",
+    "links": [
+      {
+        "link": "Cuộc đời ở kiếp này là vậy",
+        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
+      },
+      {
+        "link": "Thật vô ích để thay đổi",
+        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Cuộc đời ở kiếp này là vậy",
+        "link": "Sinh ra là như thế",
+        "relativePath": "Tâm linh/Cuộc đời ở kiếp này là vậy.md"
+      },
+      {
+        "fileName": "Thật vô ích để thay đổi",
+        "link": "Sinh ra là như thế",
+        "relativePath": "Quy luật cuộc sống/Thật vô ích để thay đổi.md"
+      }
+    ]
+  },
+  {
     "fileName": "Nếu không thấy hợp lý thì không đáng lắng nghe",
     "relativePath": "Quy luật cuộc sống/Nếu không thấy hợp lý thì không đáng lắng nghe.md",
     "links": [
@@ -2705,6 +2716,41 @@
         "fileName": "Hãy phản tư",
         "link": "Nếu không thấy hợp lý thì không đáng lắng nghe",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mọi thứ chỉ là sự phù hợp",
+    "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md",
+    "links": [
+      {
+        "link": "Mọi thứ đều là sự sắp đặt của số phận",
+        "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md"
+      },
+      {
+        "link": "Hãy thích ứng linh hoạt với cuộc sống",
+        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
+      },
+      {
+        "link": "Số phận là do ta quyết định",
+        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Số phận là do ta quyết định",
+        "link": "Mọi thứ chỉ là sự phù hợp",
+        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
+      },
+      {
+        "fileName": "Không có gì là đúng, không có gì là sai",
+        "link": "Mọi thứ chỉ là sự phù hợp",
+        "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md"
+      },
+      {
+        "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
+        "link": "Mọi thứ chỉ là sự phù hợp",
+        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
       }
     ]
   },
@@ -2762,41 +2808,6 @@
     ]
   },
   {
-    "fileName": "Mọi thứ chỉ là sự phù hợp",
-    "relativePath": "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md",
-    "links": [
-      {
-        "link": "Mọi thứ đều là sự sắp đặt của số phận",
-        "relativePath": "Tâm linh/Tự nhiên/Mọi thứ đều là sự sắp đặt của số phận.md"
-      },
-      {
-        "link": "Hãy thích ứng linh hoạt với cuộc sống",
-        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
-      },
-      {
-        "link": "Số phận là do ta quyết định",
-        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Không có gì là đúng, không có gì là sai",
-        "link": "Mọi thứ chỉ là sự phù hợp",
-        "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md"
-      },
-      {
-        "fileName": "Số phận là do ta quyết định",
-        "link": "Mọi thứ chỉ là sự phù hợp",
-        "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
-      },
-      {
-        "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
-        "link": "Mọi thứ chỉ là sự phù hợp",
-        "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md"
-      }
-    ]
-  },
-  {
     "fileName": "Hãy thích ứng linh hoạt với cuộc sống",
     "relativePath": "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md",
     "links": [
@@ -2823,14 +2834,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Không có gì là đúng, không có gì là sai",
-        "link": "Hãy thích ứng linh hoạt với cuộc sống",
-        "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md"
-      },
-      {
         "fileName": "Lùi một bước để tiến ba bước",
         "link": "Hãy thích ứng linh hoạt với cuộc sống",
         "relativePath": "Thay đổi thực tại/Lùi một bước để tiến ba bước.md"
+      },
+      {
+        "fileName": "Không có gì là đúng, không có gì là sai",
+        "link": "Hãy thích ứng linh hoạt với cuộc sống",
+        "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md"
       },
       {
         "fileName": "Đừng cầu toàn",
@@ -2936,19 +2947,20 @@
         "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
       },
       {
-        "link": "Give them an inch and they will take a mile"
+        "link": "Give them an inch and they will take a mile",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Give them an inch and they will take a mile.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
-        "link": "Nếu có kẽ hở thì sẽ có người khai thác",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
-      },
-      {
         "fileName": "Sẽ luôn có người làm hại mình",
         "link": "Nếu có kẽ hở thì sẽ có người khai thác",
         "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "fileName": "Người đang có quyền lực thì sẽ không bao giờ từ bỏ",
+        "link": "Nếu có kẽ hở thì sẽ có người khai thác",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Người đang có quyền lực thì sẽ không bao giờ từ bỏ.md"
       },
       {
         "fileName": "Phải tránh mọi rủi ro",
@@ -2975,14 +2987,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
-        "link": "Não chúng ta luôn tự đánh lừa chính mình",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình.md"
-      },
-      {
         "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
         "link": "Não chúng ta luôn tự đánh lừa chính mình",
         "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
+      },
+      {
+        "fileName": "Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình",
+        "link": "Não chúng ta luôn tự đánh lừa chính mình",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Giúp người gặp khó khăn ngay cả khi họ không nhờ đến mình.md"
       }
     ]
   },
@@ -3343,6 +3355,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Mục đích biện minh cho phương tiện",
+        "link": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
+        "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md"
+      },
+      {
         "fileName": "Không thể chiều lòng tất cả mọi người được",
         "link": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Không thể chiều lòng tất cả mọi người được.md"
@@ -3356,11 +3373,6 @@
         "fileName": "Hãy sống trong hiện tại",
         "link": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
         "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
-      },
-      {
-        "fileName": "Mục đích biện minh cho phương tiện",
-        "link": "Nếu việc quan tâm đến bản thân gây đau khổ cho người khác thì cũng không cần phải áy náy",
-        "relativePath": "Thay đổi thực tại/Mục đích biện minh cho phương tiện.md"
       },
       {
         "fileName": "Không có gì là sai nếu lo cho bản thân trước",
@@ -3477,21 +3489,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Tự nhiên sẽ cân bằng mọi thứ",
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Tâm linh/Tự nhiên/Tự nhiên sẽ cân bằng mọi thứ.md"
-      },
-      {
-        "fileName": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
-      },
-      {
-        "fileName": "Kiếp sau có tồn tại",
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Tâm linh/Kiếp sau có tồn tại.md"
-      },
-      {
         "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
         "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
         "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
@@ -3505,6 +3502,21 @@
         "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
         "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
         "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      },
+      {
+        "fileName": "Tự nhiên sẽ cân bằng mọi thứ",
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Tâm linh/Tự nhiên/Tự nhiên sẽ cân bằng mọi thứ.md"
+      },
+      {
+        "fileName": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
+      },
+      {
+        "fileName": "Kiếp sau có tồn tại",
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Tâm linh/Kiếp sau có tồn tại.md"
       },
       {
         "fileName": "Thật vô ích để thay đổi",
@@ -3547,14 +3559,14 @@
         "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy cứ kiên trì làm, rồi thành công sẽ đến.md"
       },
       {
-        "fileName": "Hãy chấp nhận rủi ro",
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md"
-      },
-      {
         "fileName": "Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt",
         "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
         "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chịu đau lúc này, rồi sau đó sẽ trái ngọt.md"
+      },
+      {
+        "fileName": "Hãy chấp nhận rủi ro",
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md"
       },
       {
         "fileName": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
@@ -3738,6 +3750,41 @@
     ]
   },
   {
+    "fileName": "Hãy nuôi dưỡng sự tò mò",
+    "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự tò mò.md",
+    "links": [
+      {
+        "link": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra.md"
+      },
+      {
+        "link": "Hãy dám biết",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
+      },
+      {
+        "link": "Hãy mở rộng bản thân với những điều mới mẻ",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Hãy mở rộng bản thân với những điều mới mẻ",
+        "link": "Hãy nuôi dưỡng sự tò mò",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
+      },
+      {
+        "fileName": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
+        "link": "Hãy nuôi dưỡng sự tò mò",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra.md"
+      },
+      {
+        "fileName": "Hãy dám biết",
+        "link": "Hãy nuôi dưỡng sự tò mò",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
+      }
+    ]
+  },
+  {
     "fileName": "Hãy nuôi dưỡng sự hy vọng",
     "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md",
     "headings": [
@@ -3802,11 +3849,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
-        "link": "Hãy nuôi dưỡng sự hy vọng",
-        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận.md"
-      },
-      {
         "fileName": "Số phận là do ta quyết định",
         "link": "Hãy nuôi dưỡng sự hy vọng",
         "relativePath": "Thay đổi thực tại/Số phận là do ta quyết định.md"
@@ -3815,6 +3857,11 @@
         "fileName": "Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ",
         "link": "Hãy nuôi dưỡng sự hy vọng",
         "relativePath": "Thay đổi thực tại/Nếu không ta thì ai. Nếu không phải bây giờ thì bao giờ.md"
+      },
+      {
+        "fileName": "Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận",
+        "link": "Hãy nuôi dưỡng sự hy vọng",
+        "relativePath": "Tự trị, can thiệp, hiểu về người khác/Một người chỉ thay đổi một khi bản thân họ đã sẵn sàng tiếp nhận.md"
       },
       {
         "fileName": "Tương lai không đoán trước được",
@@ -3854,41 +3901,6 @@
     ]
   },
   {
-    "fileName": "Hãy nuôi dưỡng sự tò mò",
-    "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự tò mò.md",
-    "links": [
-      {
-        "link": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra.md"
-      },
-      {
-        "link": "Hãy dám biết",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
-      },
-      {
-        "link": "Hãy mở rộng bản thân với những điều mới mẻ",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Hãy mở rộng bản thân với những điều mới mẻ",
-        "link": "Hãy nuôi dưỡng sự tò mò",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
-      },
-      {
-        "fileName": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
-        "link": "Hãy nuôi dưỡng sự tò mò",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra.md"
-      },
-      {
-        "fileName": "Hãy dám biết",
-        "link": "Hãy nuôi dưỡng sự tò mò",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
-      }
-    ]
-  },
-  {
     "fileName": "Hãy mở rộng bản thân với những điều mới mẻ",
     "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md",
     "links": [
@@ -3920,37 +3932,6 @@
         "fileName": "Hãy phản tư",
         "link": "Hãy mở rộng bản thân với những điều mới mẻ",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
-    "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone.md",
-    "links": [
-      {
-        "link": "Chỉ cần làm những gì mình có thể làm",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Chỉ cần làm những gì mình có thể làm.md"
-      },
-      {
-        "link": "Hãy mở rộng bản thân với những điều mới mẻ",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Đừng cầu toàn",
-        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
-        "relativePath": "Quy luật cuộc sống/Đừng cầu toàn.md"
-      },
-      {
-        "fileName": "Hãy mở rộng bản thân với những điều mới mẻ",
-        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
-      },
-      {
-        "fileName": "Chỉ cần làm những gì mình có thể làm",
-        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Chỉ cần làm những gì mình có thể làm.md"
       }
     ]
   },
@@ -3990,55 +3971,33 @@
     ]
   },
   {
-    "fileName": "Hãy chấp nhận rủi ro",
-    "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md",
+    "fileName": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
+    "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone.md",
     "links": [
       {
-        "link": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
+        "link": "Chỉ cần làm những gì mình có thể làm",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Chỉ cần làm những gì mình có thể làm.md"
       },
       {
-        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "link": "Hãy đặt niềm tin vào người khác",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
-      },
-      {
-        "link": "Sẽ luôn có người làm hại mình",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
-      },
-      {
-        "link": "Phải tránh mọi rủi ro",
-        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
+        "link": "Hãy mở rộng bản thân với những điều mới mẻ",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Sẽ luôn có người làm hại mình",
-        "link": "Hãy chấp nhận rủi ro",
-        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+        "fileName": "Đừng cầu toàn",
+        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
+        "relativePath": "Quy luật cuộc sống/Đừng cầu toàn.md"
       },
       {
-        "fileName": "Phải tránh mọi rủi ro",
-        "link": "Hãy chấp nhận rủi ro",
-        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
+        "fileName": "Hãy mở rộng bản thân với những điều mới mẻ",
+        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy mở rộng bản thân với những điều mới mẻ.md"
       },
       {
-        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
-        "link": "Hãy chấp nhận rủi ro",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
-      },
-      {
-        "fileName": "Hãy đặt niềm tin vào người khác",
-        "link": "Hãy chấp nhận rủi ro",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
-      },
-      {
-        "fileName": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
-        "link": "Hãy chấp nhận rủi ro",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
+        "fileName": "Chỉ cần làm những gì mình có thể làm",
+        "link": "Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Chỉ cần làm những gì mình có thể làm.md"
       }
     ]
   },
@@ -4120,6 +4079,59 @@
     ]
   },
   {
+    "fileName": "Hãy chấp nhận rủi ro",
+    "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy chấp nhận rủi ro.md",
+    "links": [
+      {
+        "link": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
+      },
+      {
+        "link": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "link": "Hãy đặt niềm tin vào người khác",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
+      },
+      {
+        "link": "Sẽ luôn có người làm hại mình",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "link": "Phải tránh mọi rủi ro",
+        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sẽ luôn có người làm hại mình",
+        "link": "Hãy chấp nhận rủi ro",
+        "relativePath": "Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md"
+      },
+      {
+        "fileName": "Phải tránh mọi rủi ro",
+        "link": "Hãy chấp nhận rủi ro",
+        "relativePath": "Quy luật cuộc sống/Phải tránh mọi rủi ro.md"
+      },
+      {
+        "fileName": "Mọi chuyện rồi nhất định sẽ ổn thôi",
+        "link": "Hãy chấp nhận rủi ro",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
+      },
+      {
+        "fileName": "Hãy đặt niềm tin vào người khác",
+        "link": "Hãy chấp nhận rủi ro",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy đặt niềm tin vào người khác.md"
+      },
+      {
+        "fileName": "Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản",
+        "link": "Hãy chấp nhận rủi ro",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Nếu có thể linh hoạt thì ta có thể đối phó với rủi ro một cách đơn giản.md"
+      }
+    ]
+  },
+  {
     "fileName": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
     "relativePath": "Lạc quan, hy vọng, tin tưởng/Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra.md",
     "links": [
@@ -4143,14 +4155,14 @@
         "relativePath": "Lạc quan, hy vọng, tin tưởng/Mọi chuyện rồi nhất định sẽ ổn thôi.md"
       },
       {
-        "fileName": "Hãy nuôi dưỡng sự hy vọng",
-        "link": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
-      },
-      {
         "fileName": "Hãy nuôi dưỡng sự tò mò",
         "link": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
         "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự tò mò.md"
+      },
+      {
+        "fileName": "Hãy nuôi dưỡng sự hy vọng",
+        "link": "Cánh cửa này đóng lại thì cánh cửa khác sẽ mở ra",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự hy vọng.md"
       }
     ]
   },
@@ -4216,10 +4228,6 @@
         "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy hướng đến mặt trăng. Nếu trượt, bạn cũng có thể tới được một ngôi sao - Clement Stone.md"
       }
     ]
-  },
-  {
-    "fileName": "Give them an inch and they will take a mile",
-    "relativePath": "Give them an inch and they will take a mile.md"
   },
   {
     "fileName": "Đừng nói những điều xa vời, không thực tế",
@@ -4548,14 +4556,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Khoa học không bao giờ tới được tâm linh",
-        "link": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
-        "relativePath": "Tâm linh/Logic/Khoa học không bao giờ tới được tâm linh.md"
-      },
-      {
         "fileName": "Named must your fear be before banish it you can – Yoda",
         "link": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
         "relativePath": "Thay đổi thực tại/Named must your fear be before banish it you can – Yoda.md"
+      },
+      {
+        "fileName": "Khoa học không bao giờ tới được tâm linh",
+        "link": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
+        "relativePath": "Tâm linh/Logic/Khoa học không bao giờ tới được tâm linh.md"
       },
       {
         "fileName": "Nếu hiểu được thì sẽ tự hiểu, không cần phải giải thích",
@@ -4655,11 +4663,6 @@
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
       },
       {
-        "fileName": "Hãy dám biết",
-        "link": "Không để cảm xúc chi phối bản thân",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
-      },
-      {
         "fileName": "Hãy không ngừng chất vấn những quan niệm của mình",
         "link": "Không để cảm xúc chi phối bản thân",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy không ngừng chất vấn những quan niệm của mình.md"
@@ -4668,6 +4671,11 @@
         "fileName": "Cảm xúc sẽ bóp méo thực tại",
         "link": "Không để cảm xúc chi phối bản thân",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Cảm xúc sẽ bóp méo thực tại.md"
+      },
+      {
+        "fileName": "Hãy dám biết",
+        "link": "Không để cảm xúc chi phối bản thân",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
       },
       {
         "fileName": "Cảm xúc thì không thể ép theo logic được",
@@ -4745,11 +4753,6 @@
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Không để cảm xúc chi phối bản thân.md"
       },
       {
-        "fileName": "Hãy dám biết",
-        "link": "Hãy phản tư",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
-      },
-      {
         "fileName": "Hãy không ngừng chất vấn những quan niệm của mình",
         "link": "Hãy phản tư",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy không ngừng chất vấn những quan niệm của mình.md"
@@ -4758,77 +4761,11 @@
         "fileName": "Cảm xúc sẽ bóp méo thực tại",
         "link": "Hãy phản tư",
         "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Cảm xúc sẽ bóp méo thực tại.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Hãy dám biết",
-    "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md",
-    "links": [
-      {
-        "link": "Tri thức là sức mạnh",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
       },
       {
-        "link": "Hãy nuôi dưỡng sự tò mò",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự tò mò.md"
-      },
-      {
+        "fileName": "Hãy dám biết",
         "link": "Hãy phản tư",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
-      },
-      {
-        "link": "Không để cảm xúc chi phối bản thân",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Không để cảm xúc chi phối bản thân.md"
-      },
-      {
-        "link": "Khoa học không bao giờ tới được tâm linh",
-        "relativePath": "Tâm linh/Logic/Khoa học không bao giờ tới được tâm linh.md"
-      },
-      {
-        "link": "Sử dụng lý luận thì là đang hý luận",
-        "relativePath": "Tâm linh/Logic/Sử dụng lý luận thì là đang hý luận.md"
-      },
-      {
-        "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
-        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
-        "link": "Hãy dám biết",
-        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
-      },
-      {
-        "fileName": "Sử dụng lý luận thì là đang hý luận",
-        "link": "Hãy dám biết",
-        "relativePath": "Tâm linh/Logic/Sử dụng lý luận thì là đang hý luận.md"
-      },
-      {
-        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
-        "link": "Hãy dám biết",
-        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
-      },
-      {
-        "fileName": "Hãy nuôi dưỡng sự tò mò",
-        "link": "Hãy dám biết",
-        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự tò mò.md"
-      },
-      {
-        "fileName": "Tri thức là sức mạnh",
-        "link": "Hãy dám biết",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
-      },
-      {
-        "fileName": "Không để cảm xúc chi phối bản thân",
-        "link": "Hãy dám biết",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Không để cảm xúc chi phối bản thân.md"
-      },
-      {
-        "fileName": "Hãy phản tư",
-        "link": "Hãy dám biết",
-        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md"
       }
     ]
   },
@@ -4917,6 +4854,77 @@
         "fileName": "Chỉ có cảm xúc là đúng nhất",
         "link": "Cảm xúc sẽ bóp méo thực tại",
         "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Hãy dám biết",
+    "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy dám biết.md",
+    "links": [
+      {
+        "link": "Tri thức là sức mạnh",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
+      },
+      {
+        "link": "Hãy nuôi dưỡng sự tò mò",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự tò mò.md"
+      },
+      {
+        "link": "Hãy phản tư",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
+      },
+      {
+        "link": "Không để cảm xúc chi phối bản thân",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Không để cảm xúc chi phối bản thân.md"
+      },
+      {
+        "link": "Khoa học không bao giờ tới được tâm linh",
+        "relativePath": "Tâm linh/Logic/Khoa học không bao giờ tới được tâm linh.md"
+      },
+      {
+        "link": "Sử dụng lý luận thì là đang hý luận",
+        "relativePath": "Tâm linh/Logic/Sử dụng lý luận thì là đang hý luận.md"
+      },
+      {
+        "link": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
+        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Dũng cảm nói không với cái sai, nói không với điều phi lý",
+        "link": "Hãy dám biết",
+        "relativePath": "Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md"
+      },
+      {
+        "fileName": "Dùng lý trí là can thiệp thô bạo vào tự nhiên",
+        "link": "Hãy dám biết",
+        "relativePath": "Tâm linh/Tự nhiên/Dùng lý trí là can thiệp thô bạo vào tự nhiên.md"
+      },
+      {
+        "fileName": "Sử dụng lý luận thì là đang hý luận",
+        "link": "Hãy dám biết",
+        "relativePath": "Tâm linh/Logic/Sử dụng lý luận thì là đang hý luận.md"
+      },
+      {
+        "fileName": "Hãy nuôi dưỡng sự tò mò",
+        "link": "Hãy dám biết",
+        "relativePath": "Lạc quan, hy vọng, tin tưởng/Hãy nuôi dưỡng sự tò mò.md"
+      },
+      {
+        "fileName": "Tri thức là sức mạnh",
+        "link": "Hãy dám biết",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md"
+      },
+      {
+        "fileName": "Không để cảm xúc chi phối bản thân",
+        "link": "Hãy dám biết",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Không để cảm xúc chi phối bản thân.md"
+      },
+      {
+        "fileName": "Hãy phản tư",
+        "link": "Hãy dám biết",
+        "relativePath": "Kiến thức, ngôn ngữ, thông diễn/Hãy phản tư.md"
       }
     ]
   },
@@ -5113,6 +5121,32 @@
     ]
   },
   {
+    "fileName": "Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt",
+    "relativePath": "Cảm xúc/Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt.md",
+    "links": [
+      {
+        "link": "Chỉ có cảm xúc là đúng nhất",
+        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
+      },
+      {
+        "link": "Linh hồn có tồn tại",
+        "relativePath": "Tâm linh/Linh hồn có tồn tại.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Linh hồn có tồn tại",
+        "link": "Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt",
+        "relativePath": "Tâm linh/Linh hồn có tồn tại.md"
+      },
+      {
+        "fileName": "Chỉ có cảm xúc là đúng nhất",
+        "link": "Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt",
+        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
+      }
+    ]
+  },
+  {
     "fileName": "Cảm xúc thì không thể ép theo logic được",
     "relativePath": "Cảm xúc/Cảm xúc thì không thể ép theo logic được.md",
     "links": [
@@ -5175,32 +5209,6 @@
     ]
   },
   {
-    "fileName": "Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt",
-    "relativePath": "Cảm xúc/Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt.md",
-    "links": [
-      {
-        "link": "Chỉ có cảm xúc là đúng nhất",
-        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
-      },
-      {
-        "link": "Linh hồn có tồn tại",
-        "relativePath": "Tâm linh/Linh hồn có tồn tại.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Linh hồn có tồn tại",
-        "link": "Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt",
-        "relativePath": "Tâm linh/Linh hồn có tồn tại.md"
-      },
-      {
-        "fileName": "Chỉ có cảm xúc là đúng nhất",
-        "link": "Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt",
-        "relativePath": "Cảm xúc/Chỉ có cảm xúc là đúng nhất.md"
-      }
-    ]
-  },
-  {
     "fileName": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
     "relativePath": "Cảm xúc/Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận.md",
     "links": [
@@ -5227,14 +5235,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Khoa học không bao giờ tới được tâm linh",
-        "link": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
-        "relativePath": "Tâm linh/Logic/Khoa học không bao giờ tới được tâm linh.md"
-      },
-      {
         "fileName": "Không có gì là đúng, không có gì là sai",
         "link": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
         "relativePath": "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md"
+      },
+      {
+        "fileName": "Khoa học không bao giờ tới được tâm linh",
+        "link": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
+        "relativePath": "Tâm linh/Logic/Khoa học không bao giờ tới được tâm linh.md"
       },
       {
         "fileName": "Ngôn ngữ không bao giờ có thể diễn tả hết được",
@@ -5362,6 +5370,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
+        "link": "Chỉ có cảm xúc là đúng nhất",
+        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
+      },
+      {
         "fileName": "Sự tự quyết của một người là bất khả xâm phạm",
         "link": "Chỉ có cảm xúc là đúng nhất",
         "relativePath": "Tự trị, can thiệp, hiểu về người khác/Sự tự quyết của một người là bất khả xâm phạm.md"
@@ -5380,11 +5393,6 @@
         "fileName": "Hãy sống trong hiện tại",
         "link": "Chỉ có cảm xúc là đúng nhất",
         "relativePath": "Tâm linh/Hãy sống trong hiện tại.md"
-      },
-      {
-        "fileName": "Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp",
-        "link": "Chỉ có cảm xúc là đúng nhất",
-        "relativePath": "Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md"
       },
       {
         "fileName": "Việc theo đuổi cái đẹp kể cả khi nó mâu thuẫn với cái đúng và cái tốt là chuyện đương nhiên",
@@ -5442,14 +5450,14 @@
         "relativePath": "Cảm xúc/Cảm xúc tiêu cực báo hiệu sự không ổn đối với bản thân.md"
       },
       {
-        "fileName": "Cảm xúc thì không thể ép theo logic được",
-        "link": "Chỉ có cảm xúc là đúng nhất",
-        "relativePath": "Cảm xúc/Cảm xúc thì không thể ép theo logic được.md"
-      },
-      {
         "fileName": "Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt",
         "link": "Chỉ có cảm xúc là đúng nhất",
         "relativePath": "Cảm xúc/Cảm thấy mình nhạy cảm hoặc có năng lực đặc biệt.md"
+      },
+      {
+        "fileName": "Cảm xúc thì không thể ép theo logic được",
+        "link": "Chỉ có cảm xúc là đúng nhất",
+        "relativePath": "Cảm xúc/Cảm xúc thì không thể ép theo logic được.md"
       },
       {
         "fileName": "Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận",
